@@ -1,1 +1,1 @@
-# BLE-Scatternet
+# Scatternet
